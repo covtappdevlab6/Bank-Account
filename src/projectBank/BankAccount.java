@@ -8,7 +8,7 @@ public class BankAccount {
 		this.balance = balance;
 		this.password = password;
 	}
-
+//Update Project Bank
 	public void setBalance(double balance) {
 		this.balance = balance;
 	}
